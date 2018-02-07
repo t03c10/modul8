@@ -1,7 +1,7 @@
 {
-  "name": "learning-git2",
+  "name": "modul8",
   "version": "1.0.0",
-  "description": "https://t03c10.github.io/learning-git2/",
+  "description": "https://t03c10.github.io/modul8/",
   "main": "index.js",
   "scripts": {
     "test": "npm run test:html",
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t03c10/learning-git2.git"
+    "url": "git+https://github.com/t03c10/modul8"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/t03c10/learning-git2/issues"
+    "url": "https://github.com/t03c10/modul8/issues"
   },
-  "homepage": "https://github.com/t03c10/learning-git2#readme",
+  "homepage": "https://github.com/t03c10/modul8#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
