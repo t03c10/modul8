@@ -17,7 +17,8 @@
     "watch:sassprefixer": "onchange -d 100 scss/style.scss -- npm-run-all check:*",
     "check:sass": "node-sass --output-style expanded --source-map true -o css sass",
     "check:autoprefixer": "autoprefixer-cli  css/style.css",
-    "sync": "node_modules/.bin/browser-sync start --server --files 'css/*.css' '*.html'"
+    "sync": "node_modules/.bin/browser-sync start --server --files 'css/*.css' '*.html'",
+    "syncjs": "node_modules/.bin/browser-sync start --server --files 'workspace/css/*.css' '*.html''workspace/js/*.js'"
   },
   "repository": {
     "type": "git",
